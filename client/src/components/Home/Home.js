@@ -110,7 +110,6 @@ const Home = () => {
           </Grid>
         </Container>
       </Grow>
-      ;
     </div>
   );
 };
